@@ -1,1 +1,1 @@
-Project is live at https://countdown-timer-dhwaj.netlify.app/
+Project is live at https://countdown-timer-dhwxj.netlify.app/
